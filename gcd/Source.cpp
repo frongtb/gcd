@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 int main() {
     int input_1, input_2, i = 1, gcd;
